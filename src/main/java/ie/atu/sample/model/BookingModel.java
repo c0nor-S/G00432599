@@ -16,5 +16,6 @@ public class BookingModel {
     private String organiserName;
     private int attendeeCount;
     private Long id;
+    private boolean status;
 
 }
